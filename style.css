@@ -176,7 +176,7 @@ h1{
     border-radius: 5rem;
     background: linear-gradient(45deg, #004c99, #009994);
     position: relative;
-    top: 37rem;
+    top: 27rem;
 }
   
   .Home .controls .video-btn{
@@ -564,7 +564,7 @@ color:whitesmoke;
 @media screen and (max-width: 685px){
 
 html{
-        font-size: 55%;
+    font-size: 55%;
 }
 section {
     padding: 1rem;
@@ -589,7 +589,7 @@ section {
     top: -1000px;
     opacity: 0;
     transition: all 0.5s ease;
-    height: 50vh;
+    height: 40vh;
     z-index: -1;
     background: black;
 }
@@ -600,7 +600,7 @@ section {
     opacity: 1;
     transition: all 0.3sec;
     z-index: 99;
-    height: 61vh;
+    height: 68vh;
     font-size: 2.5rem;
 }
 
@@ -669,7 +669,7 @@ section {
 }
 
 .Home .controls{
-    top: 28rem;
+    top: 20rem;
     
 }
 
